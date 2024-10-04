@@ -1,6 +1,6 @@
-package src;
+package src.MyApp14;
 
-public class User {
+public class User implements Loggable {
     private String name; // field, instance variable
     private Score score; // field, instance variable
     private static int count = 0; // class variable
@@ -9,6 +9,7 @@ public class User {
     User(String name, Score score) {
         this.name = name;
         this.score = score;
+        this.log();
         User.count++;
     }
 
@@ -31,5 +32,10 @@ public class User {
     // class method
     public static void showUserCount() {
         System.out.println("User count: " + User.count);
+    }
+
+    @Override
+    public void log() {
+        System.out.println("Instance created: " + this.name);
     }
 }
