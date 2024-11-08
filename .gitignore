@@ -1,2 +1,8 @@
+# macOS system files
+.DS_Store
+
+# Eclipse workspace settings
+.metadata/
+
+# Java class files
 bin/
-*.class
