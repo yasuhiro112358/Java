@@ -1,8 +1,22 @@
-# macOS system files
-.DS_Store
+# Eclipse-specific files
+/.settings/
+/.project
+.classpath
 
-# Eclipse workspace settings
-.metadata/
+# Build directories
+/bin/
+/target/
 
-# Java class files
-bin/
+# IDE-specific files
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store       # macOS
+Thumbs.db       # Windows
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
