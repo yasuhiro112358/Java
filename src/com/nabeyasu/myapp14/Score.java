@@ -1,4 +1,4 @@
-package src.MyApp14;
+package com.nabeyasu.myapp14;
 
 public abstract class Score implements Loggable {
     private String subject;

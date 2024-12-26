@@ -1,4 +1,4 @@
-package src.MyApp14;
+package com.nabeyasu.myapp14;
 
 public class EnglishScore extends Score {
     EnglishScore(int score) {

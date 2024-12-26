@@ -1,5 +1,4 @@
-
-package src; // package declaration
+package com.nabeyasu; // package declaration
 
 public class MyApp9 {
     public static void main(String[] args) {

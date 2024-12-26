@@ -1,4 +1,4 @@
-package src; // package declaration
+package com.nabeyasu;
 
 // import java.util.Scanner; // import statement
 

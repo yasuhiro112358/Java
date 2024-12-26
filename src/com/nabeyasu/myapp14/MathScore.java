@@ -1,4 +1,4 @@
-package src.MyApp14;
+package com.nabeyasu.myapp14;
 
 public class MathScore extends Score {
     MathScore(int score) {

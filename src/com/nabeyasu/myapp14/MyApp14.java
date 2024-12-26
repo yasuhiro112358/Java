@@ -1,4 +1,4 @@
-package src.MyApp14; // package declaration
+package com.nabeyasu.myapp14; // package declaration
 
 // import java.util.Scanner; // import statement
 

@@ -1,4 +1,4 @@
-package src;
+package com.nabeyasu;
 
 /**
  * HelloWorld class

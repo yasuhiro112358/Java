@@ -1,4 +1,4 @@
-package src;
+package com.nabeyasu;
 
 public class MyApp3 {
     public static void main(String[] args) {
