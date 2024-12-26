@@ -1,12 +1,12 @@
 # Eclipse-specific files
-/.settings/
-/.project
+.settings/
+.project
 .classpath
 .metadata
 
 # Build directories
-/bin/
-/target/
+bin/
+target/
 
 # IDE-specific files
 .idea/
